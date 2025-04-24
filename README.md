@@ -33,61 +33,61 @@ Integration with National Systems: Connect with South Africa's National Populati
 
 Accessibility Enhancements: Ensure the application is usable by individuals with disabilities.​
 
-BusinessTech
+- BusinessTech
 
-Biometric Update
+- Biometric Update
 
-VerifyID
+- VerifyID
 
-Government of South Africa
+- Government of South Africa
 
-Government of South Africa
+- Government of South Africa
 
 
 🧰 Technologies Used
-Java 11: Programming language for application development.
+- Java 11: Programming language for application development.
 
-JUnit 5: Framework for unit testing.
+- JUnit 5: Framework for unit testing.
 
-Maven: Build automation and dependency management.
+- Maven: Build automation and dependency management.
 
-Luhn Algorithm: Algorithm for validating ID numbers.
+- Luhn Algorithm: Algorithm for validating ID numbers.
 
-VerifyID API: Service for real-time identity verification .
+- VerifyID API: Service for real-time identity verification .
 
-Home Affairs Digital Verification System: Government system for identity verification .
+- Home Affairs Digital Verification System: Government system for identity verification .
 
-Biometric Technologies: Facial recognition and fingerprint authentication .
+- Biometric Technologies: Facial recognition and fingerprint authentication .
 
-Blockchain: Decentralized identity management .​
-VerifyID
+.​
+- VerifyID
 
-BusinessTech
+- BusinessTech
 
-Biometric Update
+- Biometric Update
 
-Biometric Update
+- Biometric Update
 
-Government of South Africa
+- Government of South Africa
 
-YouVerify
+
 
 Government of South Africa
 
 Mettus
 
 
-📦 Prerequisites
+📦 ##Prerequisites
 Java 11 or higher
 
-JUnit 5
+- JUnit 5
 
-Gradle (for dependency management and building)​
+- Gradle (for dependency management and building)​
 
-South African Business Integrator
+- South African Business Integrator
 
-BusinessTech
+- BusinessTech
 
-Security SA
+- Security SA
 
 
