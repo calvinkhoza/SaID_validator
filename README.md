@@ -32,18 +32,17 @@ Mobile Application: Develop a mobile app for on-the-go identity verification.
 Integration with National Systems: Connect with South Africa's National Population Register for real-time verification.
 
 Accessibility Enhancements: Ensure the application is usable by individuals with disabilities.​
-Security SA
-+3
+
 BusinessTech
-+3
+
 Biometric Update
-+3
+
 VerifyID
-+2
+
 Government of South Africa
-+2
+
 Government of South Africa
-+2
+
 
 🧰 Technologies Used
 Java 11: Programming language for application development.
@@ -62,21 +61,21 @@ Biometric Technologies: Facial recognition and fingerprint authentication .
 
 Blockchain: Decentralized identity management .​
 VerifyID
-+7
+
 BusinessTech
-+7
+
 Biometric Update
-+7
+
 Biometric Update
-+7
+
 Government of South Africa
-+7
+
 YouVerify
-+7
+
 Government of South Africa
-+1
+
 Mettus
-+1
+
 
 📦 Prerequisites
 Java 11 or higher
@@ -84,14 +83,11 @@ Java 11 or higher
 JUnit 5
 
 Gradle (for dependency management and building)​
-ID Tech Wire
-+3
+
 South African Business Integrator
-+3
+
 BusinessTech
-+3
-YouVerify
-+1
+
 Security SA
-+1
+
 
