@@ -3,7 +3,12 @@ package org.example;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
-
+class AppTest {
+    @Test
+    void testValidIdNumbers() {
+        assertTrue(ValidateSaid.isValid("2001014800086"));
+        assertTrue(ValidateSaid.isValid("2909035800085"));
+    }
 
     private void assertTrue(boolean valid) {
         // TODO Auto-generated method stub
