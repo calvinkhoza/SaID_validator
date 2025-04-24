@@ -27,7 +27,8 @@ public class Main {
                 
             }
         }
-
-       
+    
+          scanner.close();
+        System.out.println("\nThank You have a great day !");   
     }
 }
